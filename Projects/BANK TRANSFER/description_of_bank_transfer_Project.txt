@@ -1,0 +1,5 @@
+The Python program provided is a currency converter that allows the user to transfer money between different currencies.
+It enables the user to transfer their money from USD to TSH, TSH to USD, USD to EURO, TSH to EURO, EURO to TSH, and EURO to USD. 
+It allows the user to input an amount of money in one currency and transfer it to another currency, with the conversion rates already predefined in the functions. 
+The program prompts the user to select which currency to transfer from and to, and then prompts for the amount of money to transfer. It also uses the time library 
+to simulate a brief transfer process. The current amount of money in each currency is displayed before and after the transfer.

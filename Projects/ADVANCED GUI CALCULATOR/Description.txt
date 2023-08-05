@@ -1,0 +1,13 @@
+creates a simple calculator using the Tkinter library in Python. The code first imports the Tkinter library and then defines a few functions:
+
+button_press(): This function is called when a button is pressed. It takes a number as input and appends it to the equation_text variable. 
+The equation_text variable stores the current expression that is being entered into the calculator.
+
+equals(): This function is called when the "=" button is pressed. It evaluates the expression in the equation_text variable and displays the result in the calculator display.
+
+clear(): This function clears the calculator display.
+
+The code then creates a window and a frame. The frame contains the buttons for the numbers and operators. The buttons are all linked to the button_press() function.
+The "=" button is linked to the equals() function and the "clear" button is linked to the clear() function.
+The code then enters the main loop, which waits for user input. When the user presses a button, the corresponding function is called. 
+The main loop continues until the user closes the window.

@@ -1,0 +1,7 @@
+Python program that creates a graphical Tic Tac Toe game using the tkinter library. The game allows two players to take turns playing on a 3x3 grid. 
+tkinter: The main library used for creating graphical user interfaces.
+random: Used to randomly select which player goes first.
+check_who_won(): Checks the game state to determine if a player has won or if there's a tie.
+nextTurn(row, column): Handles the logic for switching turns between players and updating the game board.
+empty_gaps(): Checks if there are any empty spaces left on the game board.
+new_game(): Resets the game board and selects a random player to start.

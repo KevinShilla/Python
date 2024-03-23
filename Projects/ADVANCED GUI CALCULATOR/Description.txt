@@ -4,7 +4,6 @@ button_press(): This function is called when a button is pressed. It takes a num
 The equation_text variable stores the current expression that is being entered into the calculator.
 
 equals(): This function is called when the "=" button is pressed. It evaluates the expression in the equation_text variable and displays the result in the calculator display.
-
 clear(): This function clears the calculator display.
 
 The code then creates a window and a frame. The frame contains the buttons for the numbers and operators. The buttons are all linked to the button_press() function.

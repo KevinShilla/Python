@@ -97,7 +97,6 @@ class Food:
         canvas.create_rectangle(x, y, x + SPACE_SIZE, y + SPACE_SIZE, fill=FOOD_COLOR, tag="food")
 
 
-
 def change_direction(new_direction):
 
     global direction

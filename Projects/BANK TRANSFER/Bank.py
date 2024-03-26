@@ -1,4 +1,5 @@
 import time
+
 TRANSFER_TIME = 1
 def USD_TSH(USD_to_TSH,TSH,USD,EURO):
     print("Transferring the money...")

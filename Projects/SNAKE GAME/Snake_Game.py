@@ -10,6 +10,7 @@ BACKGROUND_COLOR = "#F0F8FF"
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
 
+
 def next(snake, food):
     
     x, y = snake.coordinates[0]

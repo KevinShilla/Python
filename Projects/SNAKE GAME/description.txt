@@ -1,6 +1,7 @@
 This code is a simple implementation of the classic Snake game using the Tkinter library in Python. The game involves controlling a snake as it moves around the screen,
 trying to eat food and grow longer without crashing into the boundaries of the game screen or into its own body.
 
+
 Here's a breakdown of what the code does:
 Import necessary libraries: The code begins by importing the required modules: tkinter for the graphical user interface and random for generating random positions
 for the food.

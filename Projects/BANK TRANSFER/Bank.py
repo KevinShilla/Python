@@ -130,6 +130,7 @@ if choice == 6:
     EURO_USD(EURO_to_USD,TSH,USD,EURO)
 
 print()
+print()
 print("--------------------------------------")
 print("THANK YOU FOR USING BANK OF THE WORLD!")
 
